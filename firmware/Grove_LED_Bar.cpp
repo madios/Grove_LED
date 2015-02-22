@@ -22,7 +22,7 @@
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-#include <Arduino.h>
+//#include <Arduino.h>
 #include "Grove_LED_Bar.h"
 
 Grove_LED_Bar::Grove_LED_Bar(unsigned char pinClock, unsigned char pinData, bool greenToRed)
