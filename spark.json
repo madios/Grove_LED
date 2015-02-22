@@ -1,0 +1,7 @@
+{
+  "name": “Grove_LED_Bar”,
+  "author": “Peter <Peterammundsen@gmail.com>",
+  "license": “MIT”,
+  "version": "0.0.10",
+  "description": "A simple library that illustrates coding conventions of a Spark Library"
+}
