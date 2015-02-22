@@ -23,6 +23,10 @@
 */
 
 //#include <Arduino.h>
+#define ARDUINO_H
+#include <stdint.h>
+#include <stddef.h>
+#include <stdlib.h>
 #include "Grove_LED_Bar.h"
 
 Grove_LED_Bar::Grove_LED_Bar(unsigned char pinClock, unsigned char pinData, bool greenToRed)
